@@ -1,6 +1,5 @@
 function stringtoArray(string) {
     let splittedString = string.split(',')
-    console.log()
     let answer = []
 
     for (let i = 0; i < splittedString.length; i++) {
